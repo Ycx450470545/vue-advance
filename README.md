@@ -1,6 +1,6 @@
 # 笔记
 
-##视频地址：https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.788.player.switch&vd_source=6fb5f268bc462206db43e457e4b4d357&p=64
+## 视频地址：https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.788.player.switch&vd_source=6fb5f268bc462206db43e457e4b4d357&p=64
 
 ## 脚手架文件结构
 
